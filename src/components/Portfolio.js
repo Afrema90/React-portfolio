@@ -34,6 +34,24 @@ const Projectlist = [
         image:"./Screenshot 2023-02-17 at 10.27.23 PM.png",
         url: "https://afrema90.github.io/Third-Party-APIs-Challenge-Work-Day-Scheduler/"
     },
+    {
+        id: 5,
+        name: "JETSETTER",
+        language:"javascript,html,css,bootstrap,mysql,express,handlebars,node.js,Heroku,MERN Stack",
+        description: "Jetsetter is a web-based application that allowss to be able to share information about traveling to interat with others about their vacation and travles.",
+        image:"./Screenshot 2023-03-10 at 12.56.49 PM.png",
+        url: "https://jetsetter-travel.herokuapp.com/"
+    },
+    {
+        id: 6,
+        name: "MERN-Challenge-Book-Search-Engine",
+        language:"javascript,html,css,react,graphql,apollo,express,MongoDB,node.js,Heroku,MERN Stack,RESTful API.",
+        description: "A MERN stack application that allows users to search for books using the Google Books API, save them to a list, and delete them from the list. The application utilizes GraphQL API and Apollo Server to query and mutate data, and it uses MongoDB and the Mongoose ODM for the database.",
+        image:"./Screenshot 2023-03-10 at 3.54.36 PM.png",
+        url: "https:// https://agile-retreat-31900.herokuapp.com/",
+    },
+   
+
 ];
 
 function Portfolio() {
