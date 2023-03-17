@@ -1,15 +1,22 @@
 {
   "files": {
     "main.css": "/React-portfolio/static/css/main.44eac9fd.css",
-    "main.js": "/React-portfolio/static/js/main.49b7fc2a.js",
+    "main.js": "/React-portfolio/static/js/main.d1d47043.js",
     "static/js/787.1ed0c42c.chunk.js": "/React-portfolio/static/js/787.1ed0c42c.chunk.js",
+    "static/media/grims.png": "/React-portfolio/static/media/grims.e6cfc49c5a794cb67c9b.png",
+    "static/media/Aboutme.png": "/React-portfolio/static/media/Aboutme.3b81755ce2111347eb74.png",
+    "static/media/jetsettr.png": "/React-portfolio/static/media/jetsettr.35f0f245d2f132c3eccb.png",
+    "static/media/Screenshot 2023-02-17 at 10.08.33 PM.png": "/React-portfolio/static/media/Screenshot 2023-02-17 at 10.08.33 PM.d1ad4dc4925f428dac11.png",
+    "static/media/mernchallengebooksearchengine.png": "/React-portfolio/static/media/mernchallengebooksearchengine.ce24ef6e9bfac52217a3.png",
+    "static/media/workdayscheduler.png": "/React-portfolio/static/media/workdayscheduler.af6564751a4defd5e943.png",
+    "static/media/weatherdashboard.png": "/React-portfolio/static/media/weatherdashboard.3f93e6182e7475659213.png",
     "index.html": "/React-portfolio/index.html",
     "main.44eac9fd.css.map": "/React-portfolio/static/css/main.44eac9fd.css.map",
-    "main.49b7fc2a.js.map": "/React-portfolio/static/js/main.49b7fc2a.js.map",
+    "main.d1d47043.js.map": "/React-portfolio/static/js/main.d1d47043.js.map",
     "787.1ed0c42c.chunk.js.map": "/React-portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.44eac9fd.css",
-    "static/js/main.49b7fc2a.js"
+    "static/js/main.d1d47043.js"
   ]
 }
