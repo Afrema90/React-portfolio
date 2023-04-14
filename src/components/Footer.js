@@ -12,7 +12,7 @@ function Footer() {
             . 
             <hr />
             <a 
-            href="linkedin.com/in/ama-frema-647bb485" target="_blank" rel="noreferrer">
+            href="https://www.linkedin.com/in/ama-frema-647bb485" target="_blank" rel="noreferrer">
             LinkedIn
             </a>{" "}
             |{" "}{""}
